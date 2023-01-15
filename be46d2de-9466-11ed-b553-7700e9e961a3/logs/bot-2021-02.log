@@ -1,0 +1,459 @@
+2021-02-22 11:59:39,249 | main | INFO | Starting program...
+2021-02-22 11:59:39,251 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 11:59:39,260 | werkzeug | INFO |  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2021-02-22 11:59:39,418 | werkzeug | INFO | 172.18.0.1 - - [22/Feb/2021 11:59:39] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-22 11:59:39,498 | werkzeug | INFO | 172.18.0.1 - - [22/Feb/2021 11:59:39] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-22 11:59:55,685 | werkzeug | INFO | 172.18.0.1 - - [22/Feb/2021 11:59:55] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-22 11:59:55,770 | werkzeug | INFO | 172.18.0.1 - - [22/Feb/2021 11:59:55] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-22 12:00:40,054 | main | INFO | Starting program...
+2021-02-22 12:00:40,055 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 12:00:40,085 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 12:00:40,086 | bot | INFO | Bot Subclass Created.
+2021-02-22 12:00:40,124 | werkzeug | INFO |  * Running on http://0.0.0.0:8080/ (Press CTRL+C to quit)
+2021-02-22 12:00:40,606 | werkzeug | INFO | 172.18.0.1 - - [22/Feb/2021 12:00:40] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-22 12:00:40,704 | werkzeug | INFO | 172.18.0.1 - - [22/Feb/2021 12:00:40] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-22 12:08:16,097 | werkzeug | INFO | 172.18.0.1 - - [22/Feb/2021 12:08:16] "[37mHEAD / HTTP/1.1[0m" 200 -
+2021-02-22 12:38:16,168 | werkzeug | INFO | 172.18.0.1 - - [22/Feb/2021 12:38:16] "[37mHEAD / HTTP/1.1[0m" 200 -
+2021-02-22 13:08:16,116 | werkzeug | INFO | 172.18.0.1 - - [22/Feb/2021 13:08:16] "[37mHEAD / HTTP/1.1[0m" 200 -
+2021-02-22 13:22:26,748 | werkzeug | INFO | 172.18.0.1 - - [22/Feb/2021 13:22:26] "[37mGET / HTTP/1.1[0m" 200 -
+2021-02-22 13:22:37,857 | main | INFO | Starting program...
+2021-02-22 13:22:37,858 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 13:22:37,932 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 13:22:37,933 | bot | INFO | Bot Subclass Created.
+2021-02-22 13:55:04,066 | main | INFO | Starting program...
+2021-02-22 13:55:04,067 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 13:55:04,140 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 13:55:04,141 | bot | INFO | Bot Subclass Created.
+2021-02-22 13:56:10,667 | main | INFO | Starting program...
+2021-02-22 13:56:10,724 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 13:56:10,743 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 13:56:10,744 | bot | INFO | Bot Subclass Created.
+2021-02-22 13:56:10,778 | bot | INFO | Cog loaded: CrusaderLevel
+2021-02-22 13:57:08,561 | main | INFO | Starting program...
+2021-02-22 13:57:08,562 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 13:57:08,639 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 13:57:08,640 | bot | INFO | Bot Subclass Created.
+2021-02-22 13:57:08,695 | bot | INFO | Cog loaded: CrusaderLevel
+2021-02-22 14:14:18,483 | main | INFO | Starting program...
+2021-02-22 14:14:18,487 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 14:14:18,516 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 14:14:18,516 | bot | INFO | Bot Subclass Created.
+2021-02-22 14:14:18,617 | bot | INFO | Cog loaded: CrusaderLevel
+2021-02-22 14:14:18,619 | bot | INFO | Cog loaded: AdminCommands
+2021-02-22 14:14:30,956 | main | INFO | Starting program...
+2021-02-22 14:14:30,957 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 14:14:30,985 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 14:14:30,985 | bot | INFO | Bot Subclass Created.
+2021-02-22 14:14:31,109 | bot | INFO | Cog loaded: CrusaderLevel
+2021-02-22 14:14:31,111 | bot | INFO | Cog loaded: AdminCommands
+2021-02-22 14:15:03,248 | main | INFO | Starting program...
+2021-02-22 14:15:03,248 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 14:15:03,351 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 14:15:03,351 | bot | INFO | Bot Subclass Created.
+2021-02-22 14:15:03,565 | bot | INFO | Cog loaded: CrusaderLevel
+2021-02-22 14:15:03,566 | bot | INFO | Cog loaded: AdminCommands
+2021-02-22 14:15:03,568 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-22 14:15:13,117 | exts.error_handler | DEBUG | Command profile invoked by Tpmonkey#2682 with error NoProfile: 
+2021-02-22 14:15:17,483 | exts.error_handler | DEBUG | Command create invoked by Tpmonkey#2682 with error HasProfile: 
+2021-02-22 14:16:39,737 | main | INFO | Starting program...
+2021-02-22 14:16:39,737 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 14:16:39,759 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 14:16:39,760 | bot | INFO | Bot Subclass Created.
+2021-02-22 14:16:39,764 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-22 14:16:39,765 | bot | INFO | Cog loaded: AdminCommands
+2021-02-22 14:16:39,871 | bot | INFO | Cog loaded: CrusaderLevel
+2021-02-22 14:16:49,334 | exts.error_handler | DEBUG | Command reload invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: KeyError: 'exts.timelogger'
+2021-02-22 14:17:18,455 | main | INFO | Starting program...
+2021-02-22 14:17:18,456 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 14:17:18,525 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 14:17:18,526 | bot | INFO | Bot Subclass Created.
+2021-02-22 14:17:18,609 | bot | INFO | Cog loaded: CrusaderLevel
+2021-02-22 14:17:18,610 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-22 14:17:18,613 | bot | INFO | Cog loaded: AdminCommands
+2021-02-22 14:17:23,363 | exts.error_handler | DEBUG | Command profile invoked by Tpmonkey#2682 with error NoProfile: 
+2021-02-22 14:17:50,320 | exts.error_handler | DEBUG | Command profile invoked by Tpmonkey#2682 with error NoProfile: 
+2021-02-22 14:19:49,937 | main | INFO | Starting program...
+2021-02-22 14:19:49,940 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 14:19:49,963 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 14:19:49,967 | bot | INFO | Bot Subclass Created.
+2021-02-22 14:19:49,974 | bot | INFO | Cog loaded: AdminCommands
+2021-02-22 14:19:50,049 | bot | INFO | Cog loaded: CrusaderLevel
+2021-02-22 14:19:50,051 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-22 14:19:55,740 | exts.error_handler | DEBUG | Command profile invoked by Tpmonkey#2682 with error MissingRequiredArgument: user is a required argument that is missing.
+2021-02-22 14:20:52,583 | bot | INFO | Cog loaded: AdminCommands
+2021-02-22 14:20:52,595 | bot | INFO | Cog loaded: CrusaderLevel
+2021-02-22 14:20:52,598 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-22 14:21:03,347 | exts.error_handler | DEBUG | Command join invoked by Tpmonkey#2682 with error HasProfile: 
+2021-02-22 14:21:13,969 | exts.error_handler | DEBUG | Command profile invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: KeyError: '602055405195100163'
+2021-02-22 14:24:25,265 | bot | INFO | Cog loaded: AdminCommands
+2021-02-22 14:24:25,316 | bot | INFO | Cog loaded: CrusaderLevel
+2021-02-22 14:24:25,318 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-22 14:41:21,963 | main | INFO | Starting program...
+2021-02-22 14:41:21,964 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 14:41:22,037 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 14:41:22,038 | bot | INFO | Bot Subclass Created.
+2021-02-22 14:41:22,077 | bot | INFO | Cog loaded: CrusaderLevel
+2021-02-22 14:41:22,078 | bot | INFO | Cog loaded: AdminCommands
+2021-02-22 14:41:22,079 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-22 14:41:43,246 | exts.error_handler | DEBUG | Command delete invoked by Tpmonkey#2682 with error NoProfile: 
+2021-02-22 14:41:59,056 | exts.error_handler | DEBUG | Command delete invoked by Tpmonkey#2682 with error CommandOnCooldown: You are on cooldown. Try again in 3569.64s
+2021-02-22 15:12:01,949 | main | INFO | Starting program...
+2021-02-22 15:12:01,950 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-22 15:12:01,971 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-22 15:12:01,972 | bot | INFO | Bot Subclass Created.
+2021-02-22 15:12:02,030 | bot | INFO | Cog loaded: AdminCommands
+2021-02-22 15:12:02,070 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-22 15:12:02,071 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-23 07:01:51,729 | main | INFO | Starting program...
+2021-02-23 07:01:51,740 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-23 07:01:51,772 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-23 07:01:51,773 | bot | INFO | Bot Subclass Created.
+2021-02-23 07:01:51,780 | bot | INFO | Cog loaded: AdminCommands
+2021-02-23 07:01:51,781 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-23 07:01:51,896 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 00:07:20,706 | main | INFO | Starting program...
+2021-02-24 00:07:20,707 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 00:07:20,842 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 00:07:20,848 | bot | INFO | Bot Subclass Created.
+2021-02-24 00:07:20,858 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 00:07:21,025 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 00:07:21,031 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 00:41:20,846 | exts.error_handler | DEBUG | Command delete invoked by Tpmonkey#2682 with error CommandOnCooldown: You are on cooldown. Try again in 3570.93s
+2021-02-24 00:43:08,671 | main | INFO | Starting program...
+2021-02-24 00:43:08,673 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 00:43:08,777 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 00:43:08,782 | bot | INFO | Bot Subclass Created.
+2021-02-24 00:43:08,794 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 00:43:08,890 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 00:43:08,891 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 00:44:13,872 | exts.error_handler | DEBUG | Command join invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: AttributeError: 'Member' object has no attribute 'add_role'
+2021-02-24 00:44:58,679 | main | INFO | Starting program...
+2021-02-24 00:44:58,681 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 00:44:58,756 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 00:44:58,756 | bot | INFO | Bot Subclass Created.
+2021-02-24 00:44:58,759 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 00:44:58,796 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 00:44:58,797 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 05:47:00,157 | main | INFO | Starting program...
+2021-02-24 05:47:00,158 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 05:47:00,183 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 05:47:00,183 | bot | INFO | Bot Subclass Created.
+2021-02-24 05:47:00,185 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 05:47:16,367 | main | INFO | Starting program...
+2021-02-24 05:47:16,370 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 05:47:16,391 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 05:47:16,392 | bot | INFO | Bot Subclass Created.
+2021-02-24 05:47:16,394 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 05:47:16,444 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 05:47:16,486 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 05:47:16,487 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 05:52:55,565 | main | INFO | Starting program...
+2021-02-24 05:52:55,566 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 05:52:55,587 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 05:52:55,588 | bot | INFO | Bot Subclass Created.
+2021-02-24 05:52:55,590 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 05:52:55,591 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 05:52:55,684 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 05:52:55,687 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 05:54:43,971 | main | INFO | Starting program...
+2021-02-24 05:54:43,973 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 05:54:43,996 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 05:54:44,046 | bot | INFO | Bot Subclass Created.
+2021-02-24 05:54:44,108 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 05:54:44,111 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 05:54:44,112 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 05:54:44,114 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 05:54:47,548 | exts.error_handler | DEBUG | Command add-cp invoked by Tpmonkey#2682 with error MissingRole: Role 812774284707364866 is required to run this command.
+2021-02-24 05:55:29,109 | exts.error_handler | DEBUG | Command add-cp invoked by Tpmonkey#2682 with error MemberNotFound: Member "500" not found.
+2021-02-24 05:57:06,170 | main | INFO | Starting program...
+2021-02-24 05:57:06,170 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 05:57:06,190 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 05:57:06,191 | bot | INFO | Bot Subclass Created.
+2021-02-24 05:57:06,285 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 05:57:06,287 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 05:57:06,288 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 05:57:06,289 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 05:57:10,893 | exts.error_handler | DEBUG | Command add-cp invoked by Tpmonkey#2682 with error MemberNotFound: Member "yes" not found.
+2021-02-24 05:57:27,149 | main | INFO | Starting program...
+2021-02-24 05:57:27,152 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 05:57:27,255 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 05:57:27,256 | bot | INFO | Bot Subclass Created.
+2021-02-24 05:57:27,267 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 05:57:27,396 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 05:57:27,402 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 05:57:27,442 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 05:57:31,308 | exts.error_handler | DEBUG | Command add-cp invoked by Tpmonkey#2682 with error MemberNotFound: Member "no" not found.
+2021-02-24 12:39:06,433 | exts.error_handler | DEBUG | Command add-cp invoked by th_AdmiWeasel#6825 with error MissingRequiredArgument: person is a required argument that is missing.
+2021-02-24 13:23:53,095 | main | INFO | Starting program...
+2021-02-24 13:23:53,096 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 13:23:53,159 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 13:23:53,164 | bot | INFO | Bot Subclass Created.
+2021-02-24 13:23:53,169 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 13:23:53,169 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 13:23:53,172 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 13:23:53,173 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 13:24:48,040 | exts.error_handler | DEBUG | Command join invoked by Tpmonkey#2682 with error HasProfile: 
+2021-02-24 13:25:36,478 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 13:25:41,216 | exts.error_handler | DEBUG | Command profile invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: HTTPException: 400 Bad Request (error code: 50035): Invalid Form Body
+In embed.description: Could not interpret "{'cp': 1, 'ocp': 0, 'level': 0}" as string.
+2021-02-24 13:29:04,268 | main | INFO | Starting program...
+2021-02-24 13:29:04,269 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 13:29:04,289 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 13:29:04,289 | bot | INFO | Bot Subclass Created.
+2021-02-24 13:29:04,293 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 13:29:04,293 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 13:29:25,682 | main | INFO | Starting program...
+2021-02-24 13:29:25,683 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 13:29:25,742 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 13:29:25,743 | bot | INFO | Bot Subclass Created.
+2021-02-24 13:29:25,745 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 13:29:25,746 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 13:29:25,749 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 13:29:25,750 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 13:31:35,126 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 13:32:45,987 | main | INFO | Starting program...
+2021-02-24 13:32:45,988 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 13:32:46,010 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 13:32:46,011 | bot | INFO | Bot Subclass Created.
+2021-02-24 13:32:46,013 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 13:32:46,043 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 13:32:46,044 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 13:32:46,045 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 13:33:05,081 | exts.error_handler | DEBUG | Command profile invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: KeyError: 'cp-lv'
+2021-02-24 13:33:56,077 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 13:39:49,272 | main | INFO | Starting program...
+2021-02-24 13:39:49,273 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 13:39:49,295 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 13:39:49,296 | bot | INFO | Bot Subclass Created.
+2021-02-24 13:39:49,297 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 13:40:19,470 | main | INFO | Starting program...
+2021-02-24 13:40:19,471 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 13:40:19,491 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 13:40:19,492 | bot | INFO | Bot Subclass Created.
+2021-02-24 13:40:19,495 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 13:40:19,497 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 13:40:19,543 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 13:40:19,544 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 13:55:07,966 | exts.error_handler | DEBUG | Command update invoked by th_AdmiWeasel#6825 with error NoProfile: 
+2021-02-24 14:39:05,371 | exts.error_handler | DEBUG | Command add-cp invoked by th_AdmiWeasel#6825 with error BadArgument: Converting to "int" failed for parameter "amount".
+2021-02-24 15:28:36,894 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 15:28:40,456 | exts.error_handler | DEBUG | Command update invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: KeyError: 'oc-lv'
+2021-02-24 15:28:54,962 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 15:28:56,612 | exts.error_handler | DEBUG | Command update invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: KeyError: 0
+2021-02-24 15:29:57,981 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 15:31:04,093 | main | INFO | Starting program...
+2021-02-24 15:31:04,094 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 15:31:04,159 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 15:31:04,164 | bot | INFO | Bot Subclass Created.
+2021-02-24 15:31:04,170 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 15:31:04,173 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 15:31:04,176 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 15:31:04,178 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 15:33:08,594 | main | INFO | Starting program...
+2021-02-24 15:33:08,595 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 15:33:08,656 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 15:33:08,657 | bot | INFO | Bot Subclass Created.
+2021-02-24 15:33:08,666 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 15:33:08,669 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 15:33:08,671 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 15:33:08,673 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 15:33:14,428 | exts.error_handler | DEBUG | Command update invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: TypeError: 'NoneType' object is not iterable
+2021-02-24 15:37:22,369 | main | INFO | Starting program...
+2021-02-24 15:37:22,371 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 15:37:22,391 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 15:37:22,392 | bot | INFO | Bot Subclass Created.
+2021-02-24 15:37:22,394 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 15:37:22,396 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 15:37:22,397 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 15:37:22,401 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 15:37:28,916 | exts.error_handler | DEBUG | Command update invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: TypeError: 'NoneType' object is not iterable
+2021-02-24 15:38:42,876 | main | INFO | Starting program...
+2021-02-24 15:38:42,877 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 15:38:42,902 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 15:38:42,903 | bot | INFO | Bot Subclass Created.
+2021-02-24 15:38:42,906 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 15:38:42,913 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 15:38:42,943 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 15:38:42,950 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 15:38:47,217 | exts.error_handler | DEBUG | Command update invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: TypeError: 'NoneType' object is not iterable
+2021-02-24 15:39:49,645 | main | INFO | Starting program...
+2021-02-24 15:39:49,646 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 15:39:49,678 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 15:39:49,679 | bot | INFO | Bot Subclass Created.
+2021-02-24 15:39:49,694 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 15:39:49,696 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 15:39:49,698 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 15:39:49,700 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 15:39:54,132 | exts.error_handler | DEBUG | Command update invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: TypeError: 'NoneType' object is not iterable
+2021-02-24 15:41:59,346 | main | INFO | Starting program...
+2021-02-24 15:41:59,366 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 15:41:59,544 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 15:41:59,544 | bot | INFO | Bot Subclass Created.
+2021-02-24 15:41:59,550 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 15:41:59,559 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 15:41:59,576 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 15:41:59,584 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 15:43:52,510 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 15:44:20,669 | exts.error_handler | DEBUG | Command update invoked by Tpmonkey#2682 with error CommandOnCooldown: You are on cooldown. Try again in 37.49s
+2021-02-24 16:02:51,599 | main | INFO | Starting program...
+2021-02-24 16:02:51,601 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:02:51,692 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:02:51,699 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:02:51,715 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:02:51,719 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:02:51,723 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:02:51,727 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:02:51,728 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:02:58,003 | main | INFO | Starting program...
+2021-02-24 16:02:58,003 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:02:58,074 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:02:58,077 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:02:58,085 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:02:58,087 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:02:58,089 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:02:58,091 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:02:58,092 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:03:46,809 | main | INFO | Starting program...
+2021-02-24 16:03:46,812 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:03:46,917 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:03:46,922 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:03:46,927 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:03:46,938 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:03:46,943 | bot | INFO | Cog loaded: OCPcommands
+2021-02-24 16:03:46,946 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:03:46,954 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:04:19,509 | exts.error_handler | DEBUG | Command update invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: NameError: name '_crusader_' is not defined
+2021-02-24 16:06:29,693 | main | INFO | Starting program...
+2021-02-24 16:06:29,694 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:06:29,759 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:06:29,761 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:06:29,766 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:06:29,768 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:06:29,776 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:06:29,779 | bot | INFO | Cog loaded: OCPcommands
+2021-02-24 16:06:29,783 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:07:06,345 | exts.error_handler | DEBUG | Command update invoked by th_AdmiWeasel#6825 with error CommandOnCooldown: You are on cooldown. Try again in 45.29s
+2021-02-24 16:09:01,170 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:33:03,585 | exts.error_handler | DEBUG | Command add-cp invoked by th_AdmiWeasel#6825 with error MemberNotFound: Member "989141" not found.
+2021-02-24 16:34:41,472 | exts.error_handler | DEBUG | Command remove-cp invoked by th_AdmiWeasel#6825 with error MemberNotFound: Member "1290782414" not found.
+2021-02-24 16:34:49,487 | exts.error_handler | DEBUG | Command remove-cp invoked by th_AdmiWeasel#6825 with error MemberNotFound: Member "12048971241984141" not found.
+2021-02-24 16:36:43,974 | main | INFO | Starting program...
+2021-02-24 16:36:43,976 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:36:44,046 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:36:44,048 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:36:44,054 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:36:44,060 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:36:44,063 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:36:44,067 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:36:44,069 | bot | INFO | Cog loaded: OCPcommands
+2021-02-24 16:38:39,965 | exts.error_handler | DEBUG | Command delete invoked by th_AdmiWeasel#6825 with error CommandInvokeError: Command raised an exception: TypeError: cannot unpack non-iterable int object
+2021-02-24 16:38:47,874 | exts.error_handler | DEBUG | Command profile invoked by th_AdmiWeasel#6825 with error NoProfile: 
+2021-02-24 16:40:43,053 | main | INFO | Starting program...
+2021-02-24 16:40:43,054 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:40:43,106 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:40:43,143 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:40:43,148 | bot | INFO | Cog loaded: OCPcommands
+2021-02-24 16:40:43,150 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:40:43,155 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:40:43,173 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:40:43,177 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:42:18,514 | exts.error_handler | DEBUG | Command remove-ocp invoked by th_AdmiWeasel#6825 with error NoProfile: 
+2021-02-24 16:42:29,626 | exts.error_handler | DEBUG | Command profile invoked by th_AdmiWeasel#6825 with error CommandInvokeError: Command raised an exception: KeyError: 0
+2021-02-24 16:42:38,117 | exts.error_handler | DEBUG | Command delete invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: AttributeError: 'int' object has no attribute 'id'
+2021-02-24 16:42:46,039 | exts.error_handler | DEBUG | Command profile invoked by th_AdmiWeasel#6825 with error CommandInvokeError: Command raised an exception: KeyError: 0
+2021-02-24 16:44:19,375 | main | INFO | Starting program...
+2021-02-24 16:44:19,378 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:44:19,448 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:44:19,457 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:44:19,462 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:44:19,463 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:44:19,465 | bot | INFO | Cog loaded: OCPcommands
+2021-02-24 16:44:19,467 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:44:19,469 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:44:52,327 | exts.error_handler | DEBUG | Command profile invoked by Tpmonkey#2682 with error NoProfile: 
+2021-02-24 16:44:57,066 | exts.error_handler | DEBUG | Command profile invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: KeyError: 0
+2021-02-24 16:47:07,582 | main | INFO | Starting program...
+2021-02-24 16:47:07,582 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:47:07,621 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:47:07,646 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:47:07,652 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:47:07,656 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:47:07,658 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:47:07,662 | bot | INFO | Cog loaded: OCPcommands
+2021-02-24 16:47:07,669 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:47:14,361 | exts.admin | DEBUG | Admin Eval from Tpmonkey#2682; code: "test"
+2021-02-24 16:47:14,361 | exts.admin | TRACE | Formated ```
+2021-02-24 16:47:14,596 | exts.error_handler | DEBUG | Command admineval invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: AttributeError: 'AdminCommands' object has no attribute 'eval_jobs'
+2021-02-24 16:47:38,105 | main | INFO | Starting program...
+2021-02-24 16:47:38,106 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:47:38,174 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:47:38,178 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:47:38,183 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:47:38,190 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:47:38,191 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:47:38,192 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:47:38,194 | bot | INFO | Cog loaded: OCPcommands
+2021-02-24 16:47:41,461 | exts.admin | DEBUG | Admin Eval from Tpmonkey#2682; code: "test"
+2021-02-24 16:47:41,461 | exts.admin | TRACE | Formated ```
+2021-02-24 16:47:41,767 | exts.error_handler | DEBUG | Command admineval invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: AttributeError: 'AdminCommands' object has no attribute 'delete_eval_job'
+2021-02-24 16:48:01,515 | main | INFO | Starting program...
+2021-02-24 16:48:01,516 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:48:01,570 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:48:01,572 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:48:01,580 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:48:01,582 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:48:01,583 | bot | INFO | Cog loaded: OCPcommands
+2021-02-24 16:48:01,585 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:48:01,586 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:48:09,317 | exts.admin | DEBUG | Admin Eval from Tpmonkey#2682; code: "testv2"
+2021-02-24 16:48:09,318 | exts.admin | TRACE | Formated ```
+2021-02-24 16:48:17,352 | exts.error_handler | DEBUG | Command profile invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: KeyError: 0
+2021-02-24 16:48:25,394 | exts.admin | DEBUG | Admin Eval from Tpmonkey#2682; code: import utils.manager
+2021-02-24 16:48:25,396 | exts.admin | TRACE | Formated ```
+2021-02-24 16:48:36,837 | exts.admin | DEBUG | Admin Eval from Tpmonkey#2682; code: self.mod.get_data(ctx.author.id)
+2021-02-24 16:48:36,838 | exts.admin | TRACE | Formated ```
+2021-02-24 16:50:15,490 | exts.admin | DEBUG | Admin Eval from Tpmonkey#2682; code: self.bot.get_role(ctx, None)
+2021-02-24 16:50:15,491 | exts.admin | TRACE | Formated ```
+2021-02-24 16:50:21,497 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:50:21,500 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:50:21,505 | bot | INFO | Cog loaded: OCPcommands
+2021-02-24 16:50:21,509 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:50:21,512 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:50:27,121 | exts.error_handler | DEBUG | Command profile invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: KeyError: 0
+2021-02-24 16:50:36,135 | main | INFO | Starting program...
+2021-02-24 16:50:36,136 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:50:36,180 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:50:36,182 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:50:36,186 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:50:36,187 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:50:36,193 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:50:36,196 | bot | INFO | Cog loaded: OCPcommands
+2021-02-24 16:50:36,197 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:50:42,254 | main | INFO | Starting program...
+2021-02-24 16:50:42,259 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:50:42,297 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:50:42,298 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:50:42,343 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:50:42,346 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:50:42,348 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:50:42,349 | bot | INFO | Cog loaded: OCPcommands
+2021-02-24 16:50:42,351 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:50:46,132 | exts.error_handler | DEBUG | Command profile invoked by Tpmonkey#2682 with error CommandInvokeError: Command raised an exception: AttributeError: 'NoneType' object has no attribute 'name'
+2021-02-24 16:52:15,970 | main | INFO | Starting program...
+2021-02-24 16:52:15,972 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-24 16:52:16,151 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-24 16:52:16,165 | bot | INFO | Bot Subclass Created.
+2021-02-24 16:52:16,174 | bot | INFO | Cog loaded: CrusaderProfile
+2021-02-24 16:52:16,177 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-24 16:52:16,180 | bot | INFO | Cog loaded: CPcommands
+2021-02-24 16:52:16,183 | bot | INFO | Cog loaded: AdminCommands
+2021-02-24 16:52:16,186 | bot | INFO | Cog loaded: OCPcommands
+2021-02-25 14:14:37,032 | main | INFO | Starting program...
+2021-02-25 14:14:37,044 | asyncio | DEBUG | Using selector: EpollSelector
+2021-02-25 14:14:37,066 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-02-25 14:14:37,067 | bot | INFO | Bot Subclass Created.
+2021-02-25 14:14:37,072 | bot | INFO | Cog loaded: CPcommands
+2021-02-25 14:14:37,073 | bot | INFO | Cog loaded: ErrorHandler
+2021-02-25 14:14:37,079 | bot | INFO | Cog loaded: AdminCommands
+2021-02-25 14:14:37,081 | bot | INFO | Cog loaded: OCPcommands
+2021-02-25 14:14:37,089 | bot | INFO | Cog loaded: CrusaderProfile

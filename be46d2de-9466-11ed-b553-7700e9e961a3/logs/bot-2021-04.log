@@ -1,0 +1,18 @@
+2021-04-07 13:22:39,108 | main | INFO | Starting program...
+2021-04-07 13:22:39,108 | asyncio | DEBUG | Using selector: EpollSelector
+2021-04-07 13:22:39,154 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-04-07 13:22:39,154 | bot | INFO | Bot Subclass Created.
+2021-04-07 13:22:39,156 | bot | INFO | Cog loaded: ErrorHandler
+2021-04-07 13:22:39,158 | bot | INFO | Cog loaded: CrusaderProfile
+2021-04-07 13:22:39,159 | bot | INFO | Cog loaded: OCPcommands
+2021-04-07 13:22:39,160 | bot | INFO | Cog loaded: CPcommands
+2021-04-07 13:22:39,162 | bot | INFO | Cog loaded: AdminCommands
+2021-04-08 12:49:39,281 | main | INFO | Starting program...
+2021-04-08 12:49:39,282 | asyncio | DEBUG | Using selector: EpollSelector
+2021-04-08 12:49:39,376 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-04-08 12:49:39,379 | bot | INFO | Bot Subclass Created.
+2021-04-08 12:49:39,382 | bot | INFO | Cog loaded: ErrorHandler
+2021-04-08 12:49:39,384 | bot | INFO | Cog loaded: CPcommands
+2021-04-08 12:49:39,386 | bot | INFO | Cog loaded: OCPcommands
+2021-04-08 12:49:39,391 | bot | INFO | Cog loaded: CrusaderProfile
+2021-04-08 12:49:39,395 | bot | INFO | Cog loaded: AdminCommands

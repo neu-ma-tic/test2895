@@ -1,0 +1,19 @@
+@client.event
+async def on_ready():
+    print("I'm in")
+    print(client.user)
+
+@client.event
+async def on_message(message):
+    if message.content.startswith("!Greetings"):
+        await client.send_message(message.channel, Greetings)
+
+@client.event
+async def on_message(message):
+    if message.content.startswith("!How Are You?"):
+        await client.send_message(message.channel, "I am very Good Sir.")
+
+@client.event
+async def on_message(message):
+    if message.content.startswith("!What Is Your Favourite Server?"):
+        await client.send_message(message.channel, "Yours Of Course")

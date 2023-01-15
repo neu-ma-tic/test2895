@@ -1,0 +1,12 @@
+from discord import ClientUser
+
+def is_me(m):
+    return m.author == ClientUser.user
+
+@bot.command(aliases = ['PurgeMine', 'pm', 'PM'])
+async def purgemine(ctx, num: int):
+    #if ctx.message.author.server_permissions.administrator or ctx.message.author.id == 418428531572342794:
+        print(ctx.author.id)
+        print(ClientUser.id)
+        print(ctx.guild.id)
+        #await ctx.channel.purge(limit = num + 1, check = is_me)

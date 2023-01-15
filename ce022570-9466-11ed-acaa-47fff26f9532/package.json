@@ -1,0 +1,28 @@
+{
+  "name": "nqn-bot",
+  "version": "1.0.0",
+  "description": "🎄bot like nqn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord.js": "^13.1.0",
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "node": "^16.13.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buiquochuy2k1/NQN-DiscordBot.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/buiquochuy2k1/NQN-DiscordBot/issues"
+  },
+  "homepage": "https://github.com/buiquochuy2k1/NQN-DiscordBot#readme"
+}

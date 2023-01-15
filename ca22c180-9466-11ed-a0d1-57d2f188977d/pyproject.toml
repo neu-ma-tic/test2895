@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "repl_python3_beta_Franky-DiscordBot"
+version = "0.1.0"
+description = ""
+authors = ["Snapp3d <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+websocket = "^0.2.1"
+youtube_dl = "^2021.6.6"
+pygame = "^2.0.2"
+python-dotenv = "^0.19.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -1,0 +1,31 @@
+global leader
+leader = None
+
+
+@client.command()
+async def heist(ctx):
+  global leader
+  if leader == None:
+      leader = ctx.author
+      await ctx.send(f"[$] A user is starting a heist: {ctx.author.name}\nRun $heist again to cancel it out")
+      print(f"[$] {leader} is hosting a game")
+  elif leader != None and leader != ctx.author:
+      await ctx.send(f"[$] {leader} has already started a heist, they can cancel it by typing $heist again")
+  else:
+      await ctx.send(f"[$] {ctx.author.mention} has cancelled the heist:\nSomeone else can start a heist by typing $heist")
+      print(f"[$] {leader} is no longer hosting a game")
+      leader = None
+
+@client.command()
+async def users(ctx):
+  global leader
+
+  if leader == None:
+      await ctx.send("[$] There is currently no heist in progress, use $heist to start one")
+  else:
+      string = f"[$] Heist leader: {leader}\nCurrent connected users: \n"
+
+      for member in list(client.get_channel(leader.voice.channel.id).members):
+          string = string + f"- {member}\n"
+
+      await ctx.send(f"```{string}```")

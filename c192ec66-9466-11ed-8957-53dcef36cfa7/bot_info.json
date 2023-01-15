@@ -1,0 +1,5 @@
+{
+  "Support_server_link": "https://discord.gg/9VC3zYPYps",
+  "Broadcast_message": "Hello everyone! It's Baz and I wanted to let you know the bot is being reworked. Run poghelp for more info!",
+  "inv_link":"https://discord.com/api/oauth2/authorize?client_id=804355903452479489&permissions=3423063233&redirect_uri=https%3A%2F%2Fdiscord.gg%2F9VC3zYPYps&response_type=code&scope=identify%20email%20bot"
+}

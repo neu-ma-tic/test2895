@@ -1,0 +1,23 @@
+{
+  "name": "otter-discordbot",
+  "version": "1.0.0",
+  "description": "Discord bot for pulling cryptocurrency data at intervals and displaying it in the users sidebar.",
+  "scripts": {
+    "worker": "node bin/worker.js",
+    "web": "node bin/web.js",
+    "test": "jest"
+  },
+  "author": "d0c0q@otterclam.finance",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "dotenv": "^10.0.0",
+    "ethers": "^5.5.1",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.0.3",
+    "eslint": "^8.1.0",
+    "jest": "^27.3.1"
+  }
+}

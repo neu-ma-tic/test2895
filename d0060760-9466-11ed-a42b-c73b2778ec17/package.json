@@ -1,0 +1,23 @@
+{
+  "name": "nitrogen-discordbot",
+  "version": "1.0.0",
+  "description": "Simple Discord bot for newsletter and weather parsing.",
+  "main": "client_controller.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oxygen-Developer/Nitrogen-DiscordBot.git"
+  },
+  "author": "~_Õxygen_Developer_~",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Oxygen-Developer/Nitrogen-DiscordBot/issues"
+  },
+  "homepage": "https://github.com/Oxygen-Developer/Nitrogen-DiscordBot#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord.js": "^12.5.3"
+  }
+}

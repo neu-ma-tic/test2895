@@ -1,0 +1,201 @@
+{
+    "TOKEN" : "NzI5MzgwNzMxMjg5MDc1Nzcz.XwI4ig.IGOJVpinqXrHAC6RE9Hrh3_bN-0",
+
+    "banned_guild_ids" : [],
+
+    "server id" : {
+      "719627603186810961" : {
+        "welcome channel id" : 719656070737297418,
+        "rank check channel id" : 719672911354396712,
+        "rules channel id" : 719639352594137200,
+        "supreme role" : "Rank SSSS+ Demon Lord",
+        "wm_path" : null,
+        "lm_path" : null
+      },
+      "715143407697264671" : {
+        "welcome channel id" : 715143408427204702,
+        "rank check channel id" : 715145460339441695,
+        "rules channel id" : 715151328531185714,
+        "supreme role" : "管理員",
+        "wm_path" : null,
+        "lm_path" : null
+      },
+      "722013667520151664" : {
+        "welcome channel id" : 722013668107092050,
+        "rank check channel id" : null,
+        "rules channel id" : null,
+        "supreme role" : "Cat Container Council",
+        "wm_path" : null,
+        "lm_path" : null
+      },
+      "740462948908138546" : {
+        "welcome channel id" : 740462948908138549,
+        "rank check channel id" : 740464279957929995,
+        "rules channel id" : 740559507851051109,
+        "supreme role" : "在開服前期的元老級成員",
+        "wm_path" : null,
+        "lm_path" : null
+      },
+      "747063960662048778" : {
+        "welcome channel id" : 747063960662048781,
+        "rank check channel id" : null,
+        "rules channel id" : null,
+        "supreme role" : null,
+        "wm_path" : null,
+        "lm_path" : null
+      },
+      "749921805698990111" : {
+        "welcome channel id" : 749921805698990115,
+        "rank check channel id" : 768661123682664479,
+        "rules channel id" : 769223535813197854,
+        "supreme role" : "管理員",
+        "wm_path" : null,
+        "lm_path" : null
+      }
+    },
+
+    "pic_link" : [
+        "https://i.imgur.com/nBj5YmX.jpg",
+        "https://i.imgur.com/RIo9hbB.jpg",
+        "https://i.imgur.com/AR1zGEU.png",
+        "https://i.imgur.com/WJYigTF.png",
+        "https://i.imgur.com/0fFN3Zc.png",
+        "https://i.imgur.com/nN5sIcg.png",
+        "https://i.imgur.com/pqVHrvK.png",
+        "https://i.imgur.com/XwJvolQ.jpg",
+        "https://i.imgur.com/7tLa8Lx.gif",
+        "https://i.imgur.com/eUAP9j1.jpg",
+        "https://i.imgur.com/VoakOsk.gif",
+        "https://i.imgur.com/3XJRLu5.gif",
+        "https://i.imgur.com/dyDo9j5.png",
+        "https://i.imgur.com/NIYncXG.png",
+        "https://i.imgur.com/Yfvkd5k.png",
+        "https://i.imgur.com/DiDjDsc.png",
+        "https://i.imgur.com/IzbS8zg.png",
+        "https://i.imgur.com/4te0NXk.jpg",
+        "https://i.imgur.com/Wsxvioy.png"
+    ],
+
+    "weapons" : {
+      "common" : {
+        "c001" : ["Iron Sword", "Attacker", "https://i.imgur.com/9YDVo3S.png"],
+        "c002" : ["Wooden Shield", "Defender", "https://i.imgur.com/t3pBZmq.png"],
+        "c003" : ["Unknown Wand", "Magician", "https://i.imgur.com/jw0wbB9.png"]
+      },
+      "uncommon" : {
+        "u001" : [""],
+        "u002" : [""],
+        "u003" : [""]
+      },
+      "rare" : {
+        "r001" : [""],
+        "r003" : [""],
+        "r002" : [""]
+      },
+      "super rare" : {
+        "sr001" : [""],
+        "sr002" : [""],
+        "sr003" : [""]
+      },
+      "ultra rare" : {
+        "ur001" : ["Astil Manuscript", "Magician"],
+        "ur002" : [""],
+        "ur003" : [""]
+      }
+    },
+
+    "shop items" : {
+      "c001" :  200,
+      "c002" : 200,
+      "c003" : 200
+    },
+
+    "梗圖" : {
+        "diu" : "https://i.imgur.com/HFnfHq2.jpg",
+        "我拒絕" : "https://i.imgur.com/hSsSVxI.gif",
+        "並沒有" : "https://i.imgur.com/NBhEGPg.jpg",
+        "我就爛" : "https://i.imgur.com/NH8tkQh.jpg",
+        "會壞掉" : "https://i.imgur.com/wcHhWx6.jpg",
+        "好人卡" : "https://i.imgur.com/owBdUEa.jpg",
+        "硬了" : "https://i.imgur.com/8A13H7g.jpg",
+        "夏威夷披薩" : "https://i.imgur.com/ntoFE2b.jpg",
+        "丟眼" : "https://i.imgur.com/rKy8FBP.jpg",
+        "耐斯" : "https://i.imgur.com/M2UjDQV.gif",
+        "草" : "https://i.imgur.com/DfGX33c.jpg",
+        "我不知道" : "https://i.imgur.com/wQIJ6Vv.jpg",
+        "u質" : "https://i.imgur.com/Inq1S3j.jpg",
+        "找到你囉" : "https://i.imgur.com/y0cDDCd.jpg",
+        "胖虎" : "https://i.imgur.com/ePfmxdV.jpg",
+        "超大" : "https://i.imgur.com/UtFjKnU.jpg",
+        "畀我一次機會" : "https://i.imgur.com/eskoQ28.png",
+        "一支穿雲箭千軍萬馬來相見" : "https://i.imgur.com/mVD2vuP.jpg",
+        "who is rem" : "https://i.imgur.com/jT5vTcB.jpg",
+        "oof" : "https://i.imgur.com/WyGQewl.jpg",
+        "wat" : "https://i.imgur.com/dcoe5JI.jpg",
+        "omg" : "https://i.imgur.com/0xchJt4.gif",
+        "wtf" : "https://i.imgur.com/qj9cqxx.gif",
+        "dafaq" : "https://i.imgur.com/DdHfWIZ.jpg",
+        "404" : "https://i.imgur.com/7WNHucn.gif",
+        "bruh" : "https://i.imgur.com/t18K9Yb.jpg",
+        "nani" : "https://i.imgur.com/sHq7rIh.jpg",
+        "kimo" : "https://i.imgur.com/UQ5Ojm5.jpg",
+        "do it" : "https://i.imgur.com/tTPKXUf.gif",
+        "stop it" : "https://i.imgur.com/YUh5cRt.gif",
+        "no" : "https://i.imgur.com/yBU4h1A.gif",
+        "errr" : "https://i.imgur.com/LIVa83c.png",
+        "big brain" : "https://i.imgur.com/PDImwnf.gif",
+        "headpats please" : "https://i.imgur.com/HO3wp5S.png",
+        "hug" : "https://i.imgur.com/ivsMlKB.jpg",
+        "yahallo" : "https://i.imgur.com/r4302xU.gif",
+        "ara ara" : "https://i.imgur.com/YdrAnAm.gif",
+        "thats a big no no" : "https://i.imgur.com/hThvykl.jpg",
+        "where banana" : "https://i.imgur.com/G9bNGyl.png",
+        "fbi open up" : "https://i.imgur.com/TcDoXP7.gif",
+        "sweden pizza" : "https://i.imgur.com/ua4imI5.jpg",
+        "hahaha" : "https://i.imgur.com/K1wQSyy.gif",
+        "ahhahahaha" : "https://i.imgur.com/oed9j0k.gif",
+        "???" : "https://i.imgur.com/1gpH8cu.gif",
+        "bitch" : "https://i.imgur.com/ixqOtiP.gif",
+        "nice" : "https://i.imgur.com/25nTbP2.jpg",
+        "good" : "https://i.imgur.com/9DZupgh.jpg",
+        "hbd" : "https://i.imgur.com/GnTjvzO.png",
+        "goodmorning" : "https://i.imgur.com/uomkJ7C.gif",
+        "gn" : "https://i.imgur.com/FJiyNTL.gif",
+        "pat" : "https://i.imgur.com/claz5NF.gif",
+        "idiot" : "https://i.imgur.com/GoD1XfW.jpg",
+        "stupid ass" : "https://i.imgur.com/o9sb4A1.jpg",
+        "clapping hands" : "https://i.imgur.com/Vh3Rxs8.gif",
+        "meow" : "https://i.imgur.com/hy4dc5d.jpg",
+        "cuddle" : "https://i.imgur.com/YjE7tNX.gif",
+        "wash eyes" : "https://i.imgur.com/yhbUSfQ.jpg",
+        "i refuse" : "https://i.imgur.com/84RaLdl.gif",
+        "chat" : "https://i.imgur.com/3JNAkOM.jpg",
+        "chat is dead" : "https://i.imgur.com/USSZFSe.jpg",
+        "yeet" : "https://i.imgur.com/qbOEPJp.jpg",
+        "yes sir" : "https://i.imgur.com/pirJiDQ.png",
+        "padoru" : "https://i.imgur.com/oVkkr0E.gif",
+        "管理員" : "https://i.imgur.com/eqiirXG.png",
+        "蘿莉" : "https://i.imgur.com/pPeFOby.jpg",
+        "@ everyone" : "https://i.imgur.com/mXdkGaw.gif",
+        "marvel" : "https://i.imgur.com/hm9SnYI.gif",
+        "rust" : "https://i.imgur.com/XmgJebD.png",
+        "va" : "https://i.imgur.com/meqTrNp.png",
+        "en senpai" : "https://i.imgur.com/HWpGehQ.png",
+        "en smol dick" : "https://i.imgur.com/YFMbpT5.jpg",
+        "en lolicon" : "https://i.imgur.com/DC7oU9z.png",
+        "rate en" : "https://i.imgur.com/ArTYOWl.png",
+        "rate lucifer" : "https://i.imgur.com/qD284ZE.png",
+        "rate 阿嵐" : "https://i.imgur.com/6kk6bR0.png",
+        "小梓" : "https://i.imgur.com/0sZSj9A.png",
+        "吃貨梓" : "https://i.imgur.com/9gr1xxl.png",
+        "bg梓" : "https://i.imgur.com/8myVjxV.jpg",
+        "絳風" : "https://i.imgur.com/p8PJh3A.png",
+        "railgun" : "https://i.imgur.com/w7UrJjp.jpg",
+        "diu死" : "https://i.imgur.com/OfzhRTk.jpg",
+        "表白" : "https://i.imgur.com/x8WAULy.jpg",
+        "被踢" : "https://i.imgur.com/BTwxbCq.png",
+        "按摩" : "https://i.imgur.com/RmUU3l5.gif",
+        "孤夜" : "https://i.imgur.com/4KHgOe8.jpg",
+        "誠哥" : "https://i.imgur.com/5ZQFhvg.jpg"
+    }
+}

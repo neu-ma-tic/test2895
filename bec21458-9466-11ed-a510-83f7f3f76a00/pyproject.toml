@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "repl_python3_DiscordBot-JG-ZEKE"
+version = "0.1.0"
+description = ""
+authors = ["DEATHITSELF <<>>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+detectlanguage = "^1.5.0"
+discord = "^1.0.1"
+google-images-download = "^2.8.0"
+profanity-check = "^1.0.3"
+python-dotenv = "^0.17.1"
+deep-translator = "^1.4.4"
+joblib = "^1.0.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"

@@ -1,0 +1,16 @@
+2021-06-29 18:29:41,108 | main | INFO | Starting program...
+2021-06-29 18:29:41,108 | asyncio | DEBUG | Using selector: EpollSelector
+2021-06-29 18:29:41,125 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2021-06-29 18:29:41,126 | bot | INFO | Bot Subclass Created.
+2021-06-29 18:29:41,129 | bot | INFO | Cog loaded: OCPcommands
+2021-06-29 18:29:41,131 | bot | INFO | Cog loaded: CrusaderProfile
+2021-06-29 18:29:41,132 | bot | INFO | Cog loaded: CPcommands
+2021-06-29 18:29:41,134 | bot | INFO | Cog loaded: AdminCommands
+2021-06-29 18:29:41,134 | bot | INFO | Cog loaded: ErrorHandler
+2021-06-29 18:32:15,041 | bot | INFO | Cog loaded: OCPcommands
+2021-06-29 18:32:15,044 | bot | INFO | Cog loaded: CrusaderProfile
+2021-06-29 18:32:15,045 | bot | INFO | Cog loaded: CPcommands
+2021-06-29 18:32:15,048 | bot | INFO | Cog loaded: AdminCommands
+2021-06-29 18:32:15,050 | bot | INFO | Cog loaded: ErrorHandler
+2021-06-29 18:35:22,853 | exts.error_handler | DEBUG | Command add-cp invoked by 𝓐𝓭𝓶𝓲𝔀𝓪𝓻𝓽#6825 with error MissingRole: Role 812774284707364866 is required to run this command.
+2021-06-29 18:35:43,926 | exts.error_handler | DEBUG | Command add-cp invoked by 𝓐𝓭𝓶𝓲𝔀𝓪𝓻𝓽#6825 with error MemberNotFound: Member "10" not found.

@@ -1,0 +1,26 @@
+{
+  "name": "Hammy.",
+  "version": "0.0.1",
+  "description": "A Discord Bot Of Hammy. - Manjiro.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "GalaxyTechnician",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.10.0",
+    "node": "^16.13.2"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "@discordjs/voice": "^0.8.0",
+    "ascii-table": "^0.0.9",
+    "chalk": "^3.0.0",
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.2",
+    "fs": "^0.0.1-security"
+  }
+}

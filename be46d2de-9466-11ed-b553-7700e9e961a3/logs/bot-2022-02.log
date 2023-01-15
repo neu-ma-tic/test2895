@@ -1,0 +1,666 @@
+2022-02-01 01:18:40,668 | main | INFO | Starting program...
+2022-02-01 01:18:40,669 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-01 01:18:41,015 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-01 01:18:41,015 | bot | INFO | Bot Subclass Created.
+2022-02-01 01:18:41,028 | bot | INFO | Cog loaded: OCPcommands
+2022-02-01 01:18:41,045 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-01 01:18:41,050 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-01 01:18:41,053 | bot | INFO | Cog loaded: CPcommands
+2022-02-01 01:18:41,059 | bot | INFO | Cog loaded: AdminCommands
+2022-02-01 09:22:52,742 | main | INFO | Starting program...
+2022-02-01 09:22:52,743 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-01 09:22:52,907 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-01 09:22:52,913 | bot | INFO | Bot Subclass Created.
+2022-02-01 09:22:52,920 | bot | INFO | Cog loaded: AdminCommands
+2022-02-01 09:22:52,929 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-01 09:22:52,938 | bot | INFO | Cog loaded: CPcommands
+2022-02-01 09:22:52,940 | bot | INFO | Cog loaded: OCPcommands
+2022-02-01 09:22:52,940 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-01 22:22:03,544 | main | INFO | Starting program...
+2022-02-01 22:22:03,545 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-01 22:22:03,567 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-01 22:22:03,567 | bot | INFO | Bot Subclass Created.
+2022-02-01 22:22:03,570 | bot | INFO | Cog loaded: OCPcommands
+2022-02-01 22:22:03,571 | bot | INFO | Cog loaded: CPcommands
+2022-02-01 22:22:03,571 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-01 22:22:03,574 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-01 22:22:03,590 | bot | INFO | Cog loaded: AdminCommands
+2022-02-02 00:53:00,130 | main | INFO | Starting program...
+2022-02-02 00:53:00,136 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-02 00:53:00,287 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-02 00:53:00,292 | bot | INFO | Bot Subclass Created.
+2022-02-02 00:53:00,307 | bot | INFO | Cog loaded: OCPcommands
+2022-02-02 00:53:00,315 | bot | INFO | Cog loaded: AdminCommands
+2022-02-02 00:53:00,328 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-02 00:53:00,332 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-02 00:53:00,342 | bot | INFO | Cog loaded: CPcommands
+2022-02-02 02:22:12,737 | main | INFO | Starting program...
+2022-02-02 02:22:12,739 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-02 02:22:12,843 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-02 02:22:12,844 | bot | INFO | Bot Subclass Created.
+2022-02-02 02:22:12,846 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-02 02:22:12,850 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-02 02:22:12,851 | bot | INFO | Cog loaded: OCPcommands
+2022-02-02 02:22:12,859 | bot | INFO | Cog loaded: AdminCommands
+2022-02-02 02:22:12,860 | bot | INFO | Cog loaded: CPcommands
+2022-02-02 18:53:02,054 | main | INFO | Starting program...
+2022-02-02 18:53:02,067 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-02 18:53:02,290 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-02 18:53:02,291 | bot | INFO | Bot Subclass Created.
+2022-02-02 18:53:02,315 | bot | INFO | Cog loaded: CPcommands
+2022-02-02 18:53:02,327 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-02 18:53:02,335 | bot | INFO | Cog loaded: OCPcommands
+2022-02-02 18:53:02,335 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-02 18:53:02,365 | bot | INFO | Cog loaded: AdminCommands
+2022-02-02 20:22:59,622 | main | INFO | Starting program...
+2022-02-02 20:22:59,623 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-02 20:22:59,692 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-02 20:22:59,697 | bot | INFO | Bot Subclass Created.
+2022-02-02 20:22:59,702 | bot | INFO | Cog loaded: AdminCommands
+2022-02-02 20:22:59,708 | bot | INFO | Cog loaded: CPcommands
+2022-02-02 20:22:59,713 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-02 20:22:59,714 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-02 20:22:59,717 | bot | INFO | Cog loaded: OCPcommands
+2022-02-02 21:22:52,524 | main | INFO | Starting program...
+2022-02-02 21:22:52,526 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-02 21:22:52,593 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-02 21:22:52,602 | bot | INFO | Bot Subclass Created.
+2022-02-02 21:22:52,608 | bot | INFO | Cog loaded: CPcommands
+2022-02-02 21:22:52,616 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-02 21:22:52,618 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-02 21:22:52,622 | bot | INFO | Cog loaded: OCPcommands
+2022-02-02 21:22:52,625 | bot | INFO | Cog loaded: AdminCommands
+2022-02-02 22:22:30,773 | main | INFO | Starting program...
+2022-02-02 22:22:30,775 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-02 22:22:30,849 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-02 22:22:30,854 | bot | INFO | Bot Subclass Created.
+2022-02-02 22:22:30,863 | bot | INFO | Cog loaded: AdminCommands
+2022-02-02 22:22:30,865 | bot | INFO | Cog loaded: OCPcommands
+2022-02-02 22:22:30,865 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-02 22:22:30,871 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-02 22:22:30,872 | bot | INFO | Cog loaded: CPcommands
+2022-02-03 08:52:10,058 | main | INFO | Starting program...
+2022-02-03 08:52:10,062 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-03 08:52:10,100 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-03 08:52:10,101 | bot | INFO | Bot Subclass Created.
+2022-02-03 08:52:10,106 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-03 08:52:10,108 | bot | INFO | Cog loaded: AdminCommands
+2022-02-03 08:52:10,109 | bot | INFO | Cog loaded: OCPcommands
+2022-02-03 08:52:10,111 | bot | INFO | Cog loaded: CPcommands
+2022-02-03 08:52:10,113 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-04 03:43:39,981 | main | INFO | Starting program...
+2022-02-04 03:43:39,985 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-04 03:43:40,081 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-04 03:43:40,083 | bot | INFO | Bot Subclass Created.
+2022-02-04 03:43:40,106 | bot | INFO | Cog loaded: CPcommands
+2022-02-04 03:43:40,112 | bot | INFO | Cog loaded: AdminCommands
+2022-02-04 03:43:40,114 | bot | INFO | Cog loaded: OCPcommands
+2022-02-04 03:43:40,115 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-04 03:43:40,128 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-05 03:44:26,242 | main | INFO | Starting program...
+2022-02-05 03:44:26,246 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-05 03:44:26,507 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-05 03:44:26,522 | bot | INFO | Bot Subclass Created.
+2022-02-05 03:44:26,568 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-05 03:44:26,587 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-05 03:44:26,617 | bot | INFO | Cog loaded: AdminCommands
+2022-02-05 03:44:26,633 | bot | INFO | Cog loaded: OCPcommands
+2022-02-05 03:44:26,649 | bot | INFO | Cog loaded: CPcommands
+2022-02-05 04:14:27,616 | main | INFO | Starting program...
+2022-02-05 04:14:27,618 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-05 04:14:27,921 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-05 04:14:27,931 | bot | INFO | Bot Subclass Created.
+2022-02-05 04:14:28,028 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-05 04:14:28,033 | bot | INFO | Cog loaded: CPcommands
+2022-02-05 04:14:28,034 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-05 04:14:28,040 | bot | INFO | Cog loaded: AdminCommands
+2022-02-05 04:14:28,042 | bot | INFO | Cog loaded: OCPcommands
+2022-02-05 06:13:23,987 | main | INFO | Starting program...
+2022-02-05 06:13:23,988 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-05 06:13:24,053 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-05 06:13:24,054 | bot | INFO | Bot Subclass Created.
+2022-02-05 06:13:24,059 | bot | INFO | Cog loaded: AdminCommands
+2022-02-05 06:13:24,062 | bot | INFO | Cog loaded: OCPcommands
+2022-02-05 06:13:24,063 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-05 06:13:24,065 | bot | INFO | Cog loaded: CPcommands
+2022-02-05 06:13:24,068 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-06 05:13:16,331 | main | INFO | Starting program...
+2022-02-06 05:13:16,332 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-06 05:13:16,357 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-06 05:13:16,358 | bot | INFO | Bot Subclass Created.
+2022-02-06 05:13:16,362 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-06 05:13:16,363 | bot | INFO | Cog loaded: OCPcommands
+2022-02-06 05:13:16,406 | bot | INFO | Cog loaded: CPcommands
+2022-02-06 05:13:16,410 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-06 05:13:16,413 | bot | INFO | Cog loaded: AdminCommands
+2022-02-07 04:24:19,881 | main | INFO | Starting program...
+2022-02-07 04:24:19,888 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-07 04:24:19,998 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-07 04:24:19,999 | bot | INFO | Bot Subclass Created.
+2022-02-07 04:24:20,005 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-07 04:24:20,007 | bot | INFO | Cog loaded: CPcommands
+2022-02-07 04:24:20,013 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-07 04:24:20,015 | bot | INFO | Cog loaded: OCPcommands
+2022-02-07 04:24:20,017 | bot | INFO | Cog loaded: AdminCommands
+2022-02-07 10:54:05,104 | main | INFO | Starting program...
+2022-02-07 10:54:05,106 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-07 10:54:05,174 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-07 10:54:05,175 | bot | INFO | Bot Subclass Created.
+2022-02-07 10:54:05,187 | bot | INFO | Cog loaded: CPcommands
+2022-02-07 10:54:05,200 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-07 10:54:05,205 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-07 10:54:05,207 | bot | INFO | Cog loaded: OCPcommands
+2022-02-07 10:54:05,211 | bot | INFO | Cog loaded: AdminCommands
+2022-02-08 03:53:49,469 | main | INFO | Starting program...
+2022-02-08 03:53:49,470 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-08 03:53:49,528 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-08 03:53:49,528 | bot | INFO | Bot Subclass Created.
+2022-02-08 03:53:49,532 | bot | INFO | Cog loaded: CPcommands
+2022-02-08 03:53:49,534 | bot | INFO | Cog loaded: AdminCommands
+2022-02-08 03:53:49,535 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-08 03:53:49,536 | bot | INFO | Cog loaded: OCPcommands
+2022-02-08 03:53:49,538 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-08 05:24:06,929 | main | INFO | Starting program...
+2022-02-08 05:24:06,931 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-08 05:24:06,975 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-08 05:24:06,976 | bot | INFO | Bot Subclass Created.
+2022-02-08 05:24:06,979 | bot | INFO | Cog loaded: CPcommands
+2022-02-08 05:24:06,999 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-08 05:24:07,007 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-08 05:24:07,009 | bot | INFO | Cog loaded: OCPcommands
+2022-02-08 05:24:07,013 | bot | INFO | Cog loaded: AdminCommands
+2022-02-08 16:53:56,454 | main | INFO | Starting program...
+2022-02-08 16:53:56,455 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-08 16:53:56,483 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-08 16:53:56,484 | bot | INFO | Bot Subclass Created.
+2022-02-08 16:53:56,489 | bot | INFO | Cog loaded: CPcommands
+2022-02-08 16:53:56,537 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-08 16:53:56,540 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-08 16:53:56,542 | bot | INFO | Cog loaded: AdminCommands
+2022-02-08 16:53:56,543 | bot | INFO | Cog loaded: OCPcommands
+2022-02-09 01:54:05,205 | main | INFO | Starting program...
+2022-02-09 01:54:05,208 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-09 01:54:05,265 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-09 01:54:05,266 | bot | INFO | Bot Subclass Created.
+2022-02-09 01:54:05,276 | bot | INFO | Cog loaded: AdminCommands
+2022-02-09 01:54:05,295 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-09 01:54:05,296 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-09 01:54:05,298 | bot | INFO | Cog loaded: OCPcommands
+2022-02-09 01:54:05,299 | bot | INFO | Cog loaded: CPcommands
+2022-02-10 00:23:22,204 | main | INFO | Starting program...
+2022-02-10 00:23:22,205 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-10 00:23:22,261 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-10 00:23:22,261 | bot | INFO | Bot Subclass Created.
+2022-02-10 00:23:22,264 | bot | INFO | Cog loaded: AdminCommands
+2022-02-10 00:23:22,266 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-10 00:23:22,268 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-10 00:23:22,269 | bot | INFO | Cog loaded: CPcommands
+2022-02-10 00:23:22,270 | bot | INFO | Cog loaded: OCPcommands
+2022-02-10 07:53:18,609 | main | INFO | Starting program...
+2022-02-10 07:53:18,610 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-10 07:53:18,645 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-10 07:53:18,645 | bot | INFO | Bot Subclass Created.
+2022-02-10 07:53:18,648 | bot | INFO | Cog loaded: OCPcommands
+2022-02-10 07:53:18,651 | bot | INFO | Cog loaded: AdminCommands
+2022-02-10 07:53:18,653 | bot | INFO | Cog loaded: CPcommands
+2022-02-10 07:53:18,654 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-10 07:53:18,655 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-11 06:53:19,615 | main | INFO | Starting program...
+2022-02-11 06:53:19,618 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-11 06:53:19,670 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-11 06:53:19,671 | bot | INFO | Bot Subclass Created.
+2022-02-11 06:53:19,674 | bot | INFO | Cog loaded: AdminCommands
+2022-02-11 06:53:19,676 | bot | INFO | Cog loaded: CPcommands
+2022-02-11 06:53:19,676 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-11 06:53:19,679 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-11 06:53:19,683 | bot | INFO | Cog loaded: OCPcommands
+2022-02-12 05:20:27,897 | main | INFO | Starting program...
+2022-02-12 05:20:27,901 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-12 05:20:27,977 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-12 05:20:27,977 | bot | INFO | Bot Subclass Created.
+2022-02-12 05:20:27,988 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-12 05:20:28,000 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-12 05:20:28,014 | bot | INFO | Cog loaded: OCPcommands
+2022-02-12 05:20:28,018 | bot | INFO | Cog loaded: AdminCommands
+2022-02-12 05:20:28,025 | bot | INFO | Cog loaded: CPcommands
+2022-02-12 08:49:55,822 | main | INFO | Starting program...
+2022-02-12 08:49:55,823 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-12 08:49:55,883 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-12 08:49:55,883 | bot | INFO | Bot Subclass Created.
+2022-02-12 08:49:55,887 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-12 08:49:55,889 | bot | INFO | Cog loaded: CPcommands
+2022-02-12 08:49:55,890 | bot | INFO | Cog loaded: OCPcommands
+2022-02-12 08:49:55,893 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-12 08:49:55,894 | bot | INFO | Cog loaded: AdminCommands
+2022-02-12 16:49:57,743 | main | INFO | Starting program...
+2022-02-12 16:49:57,744 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-12 16:49:57,781 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-12 16:49:57,782 | bot | INFO | Bot Subclass Created.
+2022-02-12 16:49:57,786 | bot | INFO | Cog loaded: AdminCommands
+2022-02-12 16:49:57,787 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-12 16:49:57,788 | bot | INFO | Cog loaded: OCPcommands
+2022-02-12 16:49:57,791 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-12 16:49:57,792 | bot | INFO | Cog loaded: CPcommands
+2022-02-13 08:50:27,217 | main | INFO | Starting program...
+2022-02-13 08:50:27,219 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-13 08:50:27,286 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-13 08:50:27,286 | bot | INFO | Bot Subclass Created.
+2022-02-13 08:50:27,298 | bot | INFO | Cog loaded: AdminCommands
+2022-02-13 08:50:27,303 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-13 08:50:27,310 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-13 08:50:27,320 | bot | INFO | Cog loaded: CPcommands
+2022-02-13 08:50:27,322 | bot | INFO | Cog loaded: OCPcommands
+2022-02-13 13:19:50,268 | main | INFO | Starting program...
+2022-02-13 13:19:50,272 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-13 13:19:50,300 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-13 13:19:50,302 | bot | INFO | Bot Subclass Created.
+2022-02-13 13:19:50,339 | bot | INFO | Cog loaded: CPcommands
+2022-02-13 13:19:50,340 | bot | INFO | Cog loaded: OCPcommands
+2022-02-13 13:19:50,341 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-13 13:19:50,347 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-13 13:19:50,351 | bot | INFO | Cog loaded: AdminCommands
+2022-02-14 13:36:37,405 | main | INFO | Starting program...
+2022-02-14 13:36:37,408 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-14 13:36:37,490 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-14 13:36:37,494 | bot | INFO | Bot Subclass Created.
+2022-02-14 13:36:37,500 | bot | INFO | Cog loaded: OCPcommands
+2022-02-14 13:36:37,502 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-14 13:36:37,505 | bot | INFO | Cog loaded: AdminCommands
+2022-02-14 13:36:37,509 | bot | INFO | Cog loaded: CPcommands
+2022-02-14 13:36:37,525 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-15 07:19:59,456 | main | INFO | Starting program...
+2022-02-15 07:19:59,458 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-15 07:19:59,747 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-15 07:19:59,748 | bot | INFO | Bot Subclass Created.
+2022-02-15 07:19:59,766 | bot | INFO | Cog loaded: OCPcommands
+2022-02-15 07:19:59,767 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-15 07:19:59,797 | bot | INFO | Cog loaded: AdminCommands
+2022-02-15 07:19:59,811 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-15 07:19:59,817 | bot | INFO | Cog loaded: CPcommands
+2022-02-15 16:49:27,549 | main | INFO | Starting program...
+2022-02-15 16:49:27,552 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-15 16:49:27,641 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-15 16:49:27,642 | bot | INFO | Bot Subclass Created.
+2022-02-15 16:49:27,649 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-15 16:49:27,651 | bot | INFO | Cog loaded: AdminCommands
+2022-02-15 16:49:27,653 | bot | INFO | Cog loaded: OCPcommands
+2022-02-15 16:49:27,656 | bot | INFO | Cog loaded: CPcommands
+2022-02-15 16:49:27,664 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-15 22:19:07,951 | main | INFO | Starting program...
+2022-02-15 22:19:07,957 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-15 22:19:07,995 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-15 22:19:07,996 | bot | INFO | Bot Subclass Created.
+2022-02-15 22:19:08,002 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-15 22:19:08,004 | bot | INFO | Cog loaded: CPcommands
+2022-02-15 22:19:08,008 | bot | INFO | Cog loaded: AdminCommands
+2022-02-15 22:19:08,009 | bot | INFO | Cog loaded: OCPcommands
+2022-02-15 22:19:08,010 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-16 04:20:01,312 | main | INFO | Starting program...
+2022-02-16 04:20:01,314 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-16 04:20:01,409 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-16 04:20:01,410 | bot | INFO | Bot Subclass Created.
+2022-02-16 04:20:01,421 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-16 04:20:01,425 | bot | INFO | Cog loaded: AdminCommands
+2022-02-16 04:20:01,426 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-16 04:20:01,431 | bot | INFO | Cog loaded: CPcommands
+2022-02-16 04:20:01,434 | bot | INFO | Cog loaded: OCPcommands
+2022-02-16 05:19:10,294 | main | INFO | Starting program...
+2022-02-16 05:19:10,295 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-16 05:19:10,340 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-16 05:19:10,341 | bot | INFO | Bot Subclass Created.
+2022-02-16 05:19:10,345 | bot | INFO | Cog loaded: OCPcommands
+2022-02-16 05:19:10,347 | bot | INFO | Cog loaded: CPcommands
+2022-02-16 05:19:10,348 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-16 05:19:10,350 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-16 05:19:10,389 | bot | INFO | Cog loaded: AdminCommands
+2022-02-16 05:49:08,530 | main | INFO | Starting program...
+2022-02-16 05:49:08,531 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-16 05:49:08,591 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-16 05:49:08,594 | bot | INFO | Bot Subclass Created.
+2022-02-16 05:49:08,599 | bot | INFO | Cog loaded: AdminCommands
+2022-02-16 05:49:08,601 | bot | INFO | Cog loaded: OCPcommands
+2022-02-16 05:49:08,604 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-16 05:49:08,605 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-16 05:49:08,606 | bot | INFO | Cog loaded: CPcommands
+2022-02-16 10:22:07,295 | main | INFO | Starting program...
+2022-02-16 10:22:07,296 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-16 10:22:07,327 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-16 10:22:07,330 | bot | INFO | Bot Subclass Created.
+2022-02-16 10:22:07,335 | bot | INFO | Cog loaded: AdminCommands
+2022-02-16 10:22:07,338 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-16 10:22:07,339 | bot | INFO | Cog loaded: OCPcommands
+2022-02-16 10:22:07,340 | bot | INFO | Cog loaded: CPcommands
+2022-02-16 10:22:07,341 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-17 06:20:46,669 | main | INFO | Starting program...
+2022-02-17 06:20:46,671 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-17 06:20:46,776 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-17 06:20:46,776 | bot | INFO | Bot Subclass Created.
+2022-02-17 06:20:46,781 | bot | INFO | Cog loaded: OCPcommands
+2022-02-17 06:20:46,784 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-17 06:20:46,793 | bot | INFO | Cog loaded: AdminCommands
+2022-02-17 06:20:46,796 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-17 06:20:46,801 | bot | INFO | Cog loaded: CPcommands
+2022-02-17 10:20:17,026 | main | INFO | Starting program...
+2022-02-17 10:20:17,028 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-17 10:20:17,079 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-17 10:20:17,080 | bot | INFO | Bot Subclass Created.
+2022-02-17 10:20:17,089 | bot | INFO | Cog loaded: OCPcommands
+2022-02-17 10:20:17,090 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-17 10:20:17,097 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-17 10:20:17,101 | bot | INFO | Cog loaded: AdminCommands
+2022-02-17 10:20:17,107 | bot | INFO | Cog loaded: CPcommands
+2022-02-17 19:19:49,358 | main | INFO | Starting program...
+2022-02-17 19:19:49,359 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-17 19:19:49,393 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-17 19:19:49,394 | bot | INFO | Bot Subclass Created.
+2022-02-17 19:19:49,397 | bot | INFO | Cog loaded: OCPcommands
+2022-02-17 19:19:49,399 | bot | INFO | Cog loaded: AdminCommands
+2022-02-17 19:19:49,400 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-17 19:19:49,403 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-17 19:19:49,404 | bot | INFO | Cog loaded: CPcommands
+2022-02-18 04:50:16,642 | main | INFO | Starting program...
+2022-02-18 04:50:16,643 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-18 04:50:16,676 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-18 04:50:16,678 | bot | INFO | Bot Subclass Created.
+2022-02-18 04:50:16,680 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-18 04:50:16,682 | bot | INFO | Cog loaded: AdminCommands
+2022-02-18 04:50:16,684 | bot | INFO | Cog loaded: OCPcommands
+2022-02-18 04:50:16,686 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-18 04:50:16,692 | bot | INFO | Cog loaded: CPcommands
+2022-02-18 12:06:02,162 | main | INFO | Starting program...
+2022-02-18 12:06:02,169 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-18 12:06:02,280 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-18 12:06:02,281 | bot | INFO | Bot Subclass Created.
+2022-02-18 12:06:02,287 | bot | INFO | Cog loaded: CPcommands
+2022-02-18 12:06:02,289 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-18 12:06:02,295 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-18 12:06:02,303 | bot | INFO | Cog loaded: AdminCommands
+2022-02-18 12:06:02,305 | bot | INFO | Cog loaded: OCPcommands
+2022-02-18 12:55:32,866 | main | INFO | Starting program...
+2022-02-18 12:55:32,874 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-18 12:55:33,068 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-18 12:55:33,068 | bot | INFO | Bot Subclass Created.
+2022-02-18 12:55:33,085 | bot | INFO | Cog loaded: OCPcommands
+2022-02-18 12:55:33,092 | bot | INFO | Cog loaded: CPcommands
+2022-02-18 12:55:33,106 | bot | INFO | Cog loaded: AdminCommands
+2022-02-18 12:55:33,116 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-18 12:55:33,117 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-18 17:41:40,985 | main | INFO | Starting program...
+2022-02-18 17:41:40,997 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-18 17:41:41,089 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-18 17:41:41,090 | bot | INFO | Bot Subclass Created.
+2022-02-18 17:41:41,108 | bot | INFO | Cog loaded: AdminCommands
+2022-02-18 17:41:41,118 | bot | INFO | Cog loaded: OCPcommands
+2022-02-18 17:41:41,119 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-18 17:41:41,122 | bot | INFO | Cog loaded: CPcommands
+2022-02-18 17:41:41,132 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-19 02:41:09,131 | main | INFO | Starting program...
+2022-02-19 02:41:09,132 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-19 02:41:09,157 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-19 02:41:09,158 | bot | INFO | Bot Subclass Created.
+2022-02-19 02:41:09,160 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-19 02:41:09,161 | bot | INFO | Cog loaded: OCPcommands
+2022-02-19 02:41:09,162 | bot | INFO | Cog loaded: CPcommands
+2022-02-19 02:41:09,164 | bot | INFO | Cog loaded: AdminCommands
+2022-02-19 02:41:09,167 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-19 15:41:12,126 | main | INFO | Starting program...
+2022-02-19 15:41:12,127 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-19 15:41:12,202 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-19 15:41:12,204 | bot | INFO | Bot Subclass Created.
+2022-02-19 15:41:12,210 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-19 15:41:12,212 | bot | INFO | Cog loaded: AdminCommands
+2022-02-19 15:41:12,213 | bot | INFO | Cog loaded: OCPcommands
+2022-02-19 15:41:12,214 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-19 15:41:12,215 | bot | INFO | Cog loaded: CPcommands
+2022-02-20 02:41:15,732 | main | INFO | Starting program...
+2022-02-20 02:41:15,733 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-20 02:41:15,832 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-20 02:41:15,833 | bot | INFO | Bot Subclass Created.
+2022-02-20 02:41:15,836 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-20 02:41:15,838 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-20 02:41:15,840 | bot | INFO | Cog loaded: AdminCommands
+2022-02-20 02:41:15,842 | bot | INFO | Cog loaded: OCPcommands
+2022-02-20 02:41:15,843 | bot | INFO | Cog loaded: CPcommands
+2022-02-20 13:42:04,771 | main | INFO | Starting program...
+2022-02-20 13:42:04,808 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-20 13:42:05,018 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-20 13:42:05,019 | bot | INFO | Bot Subclass Created.
+2022-02-20 13:42:05,057 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-20 13:42:05,103 | bot | INFO | Cog loaded: CPcommands
+2022-02-20 13:42:05,115 | bot | INFO | Cog loaded: AdminCommands
+2022-02-20 13:42:05,128 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-20 13:42:05,130 | bot | INFO | Cog loaded: OCPcommands
+2022-02-21 02:35:18,840 | main | INFO | Starting program...
+2022-02-21 02:35:18,844 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-21 02:35:19,013 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-21 02:35:19,014 | bot | INFO | Bot Subclass Created.
+2022-02-21 02:35:19,044 | bot | INFO | Cog loaded: CPcommands
+2022-02-21 02:35:19,062 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-21 02:35:19,076 | bot | INFO | Cog loaded: AdminCommands
+2022-02-21 02:35:19,077 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-21 02:35:19,084 | bot | INFO | Cog loaded: OCPcommands
+2022-02-21 04:04:39,456 | main | INFO | Starting program...
+2022-02-21 04:04:39,457 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-21 04:04:39,544 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-21 04:04:39,547 | bot | INFO | Bot Subclass Created.
+2022-02-21 04:04:39,550 | bot | INFO | Cog loaded: CPcommands
+2022-02-21 04:04:39,551 | bot | INFO | Cog loaded: OCPcommands
+2022-02-21 04:04:39,554 | bot | INFO | Cog loaded: AdminCommands
+2022-02-21 04:04:39,556 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-21 04:04:39,557 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-22 03:59:56,302 | main | INFO | Starting program...
+2022-02-22 03:59:56,305 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-22 03:59:56,469 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-22 03:59:56,470 | bot | INFO | Bot Subclass Created.
+2022-02-22 03:59:56,491 | bot | INFO | Cog loaded: OCPcommands
+2022-02-22 03:59:56,506 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-22 03:59:56,523 | bot | INFO | Cog loaded: CPcommands
+2022-02-22 03:59:56,530 | bot | INFO | Cog loaded: AdminCommands
+2022-02-22 03:59:56,536 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-22 22:59:42,972 | main | INFO | Starting program...
+2022-02-22 22:59:42,975 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-22 22:59:43,014 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-22 22:59:43,015 | bot | INFO | Bot Subclass Created.
+2022-02-22 22:59:43,019 | bot | INFO | Cog loaded: OCPcommands
+2022-02-22 22:59:43,049 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-22 22:59:43,051 | bot | INFO | Cog loaded: CPcommands
+2022-02-22 22:59:43,056 | bot | INFO | Cog loaded: AdminCommands
+2022-02-22 22:59:43,061 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-22 23:30:01,108 | main | INFO | Starting program...
+2022-02-22 23:30:01,110 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-22 23:30:01,181 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-22 23:30:01,184 | bot | INFO | Bot Subclass Created.
+2022-02-22 23:30:01,191 | bot | INFO | Cog loaded: AdminCommands
+2022-02-22 23:30:01,196 | bot | INFO | Cog loaded: CPcommands
+2022-02-22 23:30:01,201 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-22 23:30:01,204 | bot | INFO | Cog loaded: OCPcommands
+2022-02-22 23:30:01,206 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-23 01:37:57,787 | main | INFO | Starting program...
+2022-02-23 01:37:57,801 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-23 01:37:58,257 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-23 01:37:58,259 | bot | INFO | Bot Subclass Created.
+2022-02-23 01:37:58,297 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-23 01:37:58,300 | bot | INFO | Cog loaded: OCPcommands
+2022-02-23 01:37:58,316 | bot | INFO | Cog loaded: CPcommands
+2022-02-23 01:37:58,353 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-23 01:37:58,362 | bot | INFO | Cog loaded: AdminCommands
+2022-02-23 02:07:19,791 | main | INFO | Starting program...
+2022-02-23 02:07:19,792 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-23 02:07:19,844 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-23 02:07:19,848 | bot | INFO | Bot Subclass Created.
+2022-02-23 02:07:19,854 | bot | INFO | Cog loaded: CPcommands
+2022-02-23 02:07:19,859 | bot | INFO | Cog loaded: OCPcommands
+2022-02-23 02:07:19,862 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-23 02:07:19,863 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-23 02:07:19,871 | bot | INFO | Cog loaded: AdminCommands
+2022-02-23 05:15:46,237 | main | INFO | Starting program...
+2022-02-23 05:15:46,240 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-23 05:15:46,322 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-23 05:15:46,323 | bot | INFO | Bot Subclass Created.
+2022-02-23 05:15:46,328 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-23 05:15:46,330 | bot | INFO | Cog loaded: CPcommands
+2022-02-23 05:15:46,332 | bot | INFO | Cog loaded: AdminCommands
+2022-02-23 05:15:46,334 | bot | INFO | Cog loaded: OCPcommands
+2022-02-23 05:15:46,334 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-24 02:06:41,133 | main | INFO | Starting program...
+2022-02-24 02:06:41,135 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-24 02:06:41,270 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-24 02:06:41,273 | bot | INFO | Bot Subclass Created.
+2022-02-24 02:06:41,278 | bot | INFO | Cog loaded: OCPcommands
+2022-02-24 02:06:41,279 | bot | INFO | Cog loaded: CPcommands
+2022-02-24 02:06:41,282 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-24 02:06:41,284 | bot | INFO | Cog loaded: AdminCommands
+2022-02-24 02:06:41,285 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-24 14:07:04,746 | main | INFO | Starting program...
+2022-02-24 14:07:04,753 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-24 14:07:04,861 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-24 14:07:04,862 | bot | INFO | Bot Subclass Created.
+2022-02-24 14:07:04,875 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-24 14:07:04,887 | bot | INFO | Cog loaded: AdminCommands
+2022-02-24 14:07:04,888 | bot | INFO | Cog loaded: OCPcommands
+2022-02-24 14:07:04,898 | bot | INFO | Cog loaded: CPcommands
+2022-02-24 14:07:04,900 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-25 00:22:59,281 | main | INFO | Starting program...
+2022-02-25 00:22:59,284 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-25 00:22:59,328 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-25 00:22:59,331 | bot | INFO | Bot Subclass Created.
+2022-02-25 00:22:59,336 | bot | INFO | Cog loaded: CPcommands
+2022-02-25 00:22:59,337 | bot | INFO | Cog loaded: OCPcommands
+2022-02-25 00:22:59,338 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-25 00:22:59,341 | bot | INFO | Cog loaded: AdminCommands
+2022-02-25 00:22:59,343 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-25 05:22:47,471 | main | INFO | Starting program...
+2022-02-25 05:22:47,472 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-25 05:22:47,498 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-25 05:22:47,500 | bot | INFO | Bot Subclass Created.
+2022-02-25 05:22:47,502 | bot | INFO | Cog loaded: OCPcommands
+2022-02-25 05:22:47,503 | bot | INFO | Cog loaded: CPcommands
+2022-02-25 05:22:47,505 | bot | INFO | Cog loaded: AdminCommands
+2022-02-25 05:22:47,506 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-25 05:22:47,508 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-25 21:40:16,284 | main | INFO | Starting program...
+2022-02-25 21:40:16,292 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-25 21:40:16,351 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-25 21:40:16,351 | bot | INFO | Bot Subclass Created.
+2022-02-25 21:40:16,355 | bot | INFO | Cog loaded: CPcommands
+2022-02-25 21:40:16,360 | bot | INFO | Cog loaded: AdminCommands
+2022-02-25 21:40:16,362 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-25 21:40:16,363 | bot | INFO | Cog loaded: OCPcommands
+2022-02-25 21:40:16,367 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-26 03:59:05,420 | main | INFO | Starting program...
+2022-02-26 03:59:05,425 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-26 03:59:05,577 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-26 03:59:05,578 | bot | INFO | Bot Subclass Created.
+2022-02-26 03:59:05,591 | bot | INFO | Cog loaded: CPcommands
+2022-02-26 03:59:05,595 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-26 03:59:05,606 | bot | INFO | Cog loaded: AdminCommands
+2022-02-26 03:59:05,619 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-26 03:59:05,630 | bot | INFO | Cog loaded: OCPcommands
+2022-02-26 09:41:48,531 | main | INFO | Starting program...
+2022-02-26 09:41:48,539 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-26 09:41:48,697 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-26 09:41:48,698 | bot | INFO | Bot Subclass Created.
+2022-02-26 09:41:48,720 | bot | INFO | Cog loaded: AdminCommands
+2022-02-26 09:41:48,724 | bot | INFO | Cog loaded: CPcommands
+2022-02-26 09:41:48,735 | bot | INFO | Cog loaded: OCPcommands
+2022-02-26 09:41:48,762 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-26 09:41:48,766 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-26 13:57:35,521 | main | INFO | Starting program...
+2022-02-26 13:57:35,524 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-26 13:57:35,685 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-26 13:57:35,692 | bot | INFO | Bot Subclass Created.
+2022-02-26 13:57:35,731 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-26 13:57:35,739 | bot | INFO | Cog loaded: CPcommands
+2022-02-26 13:57:35,750 | bot | INFO | Cog loaded: AdminCommands
+2022-02-26 13:57:35,768 | bot | INFO | Cog loaded: OCPcommands
+2022-02-26 13:57:35,779 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-26 15:39:25,932 | main | INFO | Starting program...
+2022-02-26 15:39:25,935 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-26 15:39:26,186 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-26 15:39:26,186 | bot | INFO | Bot Subclass Created.
+2022-02-26 15:39:26,199 | bot | INFO | Cog loaded: AdminCommands
+2022-02-26 15:39:26,209 | bot | INFO | Cog loaded: OCPcommands
+2022-02-26 15:39:26,217 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-26 15:39:26,235 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-26 15:39:26,250 | bot | INFO | Cog loaded: CPcommands
+2022-02-26 22:27:54,529 | main | INFO | Starting program...
+2022-02-26 22:27:54,535 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-26 22:27:54,690 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-26 22:27:54,690 | bot | INFO | Bot Subclass Created.
+2022-02-26 22:27:54,726 | bot | INFO | Cog loaded: OCPcommands
+2022-02-26 22:27:54,780 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-26 22:27:54,785 | bot | INFO | Cog loaded: CPcommands
+2022-02-26 22:27:54,786 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-26 22:27:54,789 | bot | INFO | Cog loaded: AdminCommands
+2022-02-27 00:57:21,684 | main | INFO | Starting program...
+2022-02-27 00:57:21,685 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-27 00:57:21,742 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-27 00:57:21,742 | bot | INFO | Bot Subclass Created.
+2022-02-27 00:57:21,749 | bot | INFO | Cog loaded: AdminCommands
+2022-02-27 00:57:21,752 | bot | INFO | Cog loaded: CPcommands
+2022-02-27 00:57:21,755 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-27 00:57:21,757 | bot | INFO | Cog loaded: OCPcommands
+2022-02-27 00:57:21,757 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-27 01:57:29,978 | main | INFO | Starting program...
+2022-02-27 01:57:29,982 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-27 01:57:30,146 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-27 01:57:30,153 | bot | INFO | Bot Subclass Created.
+2022-02-27 01:57:30,169 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-27 01:57:30,172 | bot | INFO | Cog loaded: AdminCommands
+2022-02-27 01:57:30,173 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-27 01:57:30,176 | bot | INFO | Cog loaded: OCPcommands
+2022-02-27 01:57:30,178 | bot | INFO | Cog loaded: CPcommands
+2022-02-27 04:27:24,427 | main | INFO | Starting program...
+2022-02-27 04:27:24,433 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-27 04:27:24,558 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-27 04:27:24,562 | bot | INFO | Bot Subclass Created.
+2022-02-27 04:27:24,571 | bot | INFO | Cog loaded: OCPcommands
+2022-02-27 04:27:24,577 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-27 04:27:24,578 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-27 04:27:24,587 | bot | INFO | Cog loaded: AdminCommands
+2022-02-27 04:27:24,593 | bot | INFO | Cog loaded: CPcommands
+2022-02-27 08:05:06,007 | main | INFO | Starting program...
+2022-02-27 08:05:06,008 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-27 08:05:06,039 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-27 08:05:06,041 | bot | INFO | Bot Subclass Created.
+2022-02-27 08:05:06,044 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-27 08:05:06,045 | bot | INFO | Cog loaded: OCPcommands
+2022-02-27 08:05:06,046 | bot | INFO | Cog loaded: CPcommands
+2022-02-27 08:05:06,048 | bot | INFO | Cog loaded: AdminCommands
+2022-02-27 08:05:06,087 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-27 14:38:19,929 | main | INFO | Starting program...
+2022-02-27 14:38:19,930 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-27 14:38:19,970 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-27 14:38:19,971 | bot | INFO | Bot Subclass Created.
+2022-02-27 14:38:19,976 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-27 14:38:19,978 | bot | INFO | Cog loaded: OCPcommands
+2022-02-27 14:38:19,984 | bot | INFO | Cog loaded: AdminCommands
+2022-02-27 14:38:19,985 | bot | INFO | Cog loaded: CPcommands
+2022-02-27 14:38:19,989 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-28 01:08:11,350 | main | INFO | Starting program...
+2022-02-28 01:08:11,351 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-28 01:08:11,388 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-28 01:08:11,389 | bot | INFO | Bot Subclass Created.
+2022-02-28 01:08:11,393 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-28 01:08:11,394 | bot | INFO | Cog loaded: OCPcommands
+2022-02-28 01:08:11,395 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-28 01:08:11,440 | bot | INFO | Cog loaded: AdminCommands
+2022-02-28 01:08:11,441 | bot | INFO | Cog loaded: CPcommands
+2022-02-28 18:18:35,431 | main | INFO | Starting program...
+2022-02-28 18:18:35,432 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-28 18:18:35,493 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-28 18:18:35,495 | bot | INFO | Bot Subclass Created.
+2022-02-28 18:18:35,498 | bot | INFO | Cog loaded: OCPcommands
+2022-02-28 18:18:35,499 | bot | INFO | Cog loaded: ErrorHandler
+2022-02-28 18:18:35,500 | bot | INFO | Cog loaded: CPcommands
+2022-02-28 18:18:35,502 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-28 18:18:35,504 | bot | INFO | Cog loaded: AdminCommands
+2022-02-28 19:19:28,834 | main | INFO | Starting program...
+2022-02-28 19:19:28,847 | asyncio | DEBUG | Using selector: EpollSelector
+2022-02-28 19:19:29,037 | discord.client | WARNING | PyNaCl is not installed, voice will NOT be supported
+2022-02-28 19:19:29,037 | bot | INFO | Bot Subclass Created.
+2022-02-28 19:19:29,045 | bot | INFO | Cog loaded: CrusaderProfile
+2022-02-28 19:19:29,056 | bot | INFO | Cog loaded: OCPcommands
+2022-02-28 19:19:29,058 | bot | INFO | Cog loaded: CPcommands
+2022-02-28 19:19:29,070 | bot | INFO | Cog loaded: AdminCommands
+2022-02-28 19:19:29,071 | bot | INFO | Cog loaded: ErrorHandler

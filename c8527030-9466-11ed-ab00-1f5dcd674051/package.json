@@ -1,0 +1,26 @@
+{
+  "name": "EconomyBot-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "economy.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/outlaylol/EconomyBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/outlaylol/EconomyBot/issues"
+  },
+  "homepage": "https://github.com/outlaylol/EconomyBot#readme"
+}

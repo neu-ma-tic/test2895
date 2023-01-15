@@ -1,0 +1,26 @@
+{
+  "name": "fivem-discordbot-1",
+  "version": "1.0.0",
+  "description": "Dette er en FiveM DiscordBot som kan vise forkskelligt information omkring din server. Den kan bla. vise FiveM Playercount i activity osv. Den er stadig i meget early development så fejl kan forekomme, skrive gerne en issue hvis det er.",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^14.5.0",
+    "fivereborn-query": "^1.0.4",
+    "fs": "^0.0.1-security",
+    "start": "^5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xKow/FiveM-DiscordBot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xKow/FiveM-DiscordBot/issues"
+  },
+  "homepage": "https://github.com/xKow/FiveM-DiscordBot#readme"
+}
